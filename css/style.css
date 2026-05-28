@@ -166,9 +166,9 @@ footer {
     gap: 50px;
 }
 .card-imagem img {
-     width: 700px;          /* 👈 Define o novo tamanho menor da imagem (ajuste esse valor como preferir) */
-     height: auto;          /* 👈 Garante que a altura mude proporcionalmente para não distorcer */
-     display: block;        /* Transforma a imagem em bloco para o alinhamento funcionar melhor */
-     margin-right: auto;    /* 👈 Empurra todo o espaço restante para a direita, forçando a foto para a ESQUERDA */
-     margin-left: 0;        /* Garante que não haja espaço sobrando do lado esquerdo */
+     width: 700px;         
+     height: auto;        
+     display: block;       
+     margin-right: auto;    
+     margin-left: 0;       
  }
